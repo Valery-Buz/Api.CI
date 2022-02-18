@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/xny8c04fy35b6twb/branch/main?svg=true)](https://ci.appveyor.com/project/Valery-Buz/api-ci/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/xny8c04fy35b6twb/branch/main?svg=true)](https://ci.appveyor.com/project/Valery-Buz/api-ci/branch/master)
